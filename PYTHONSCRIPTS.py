@@ -14,3 +14,4 @@ for file in os.listdir(source):
         )
         moved += 1
 print(f"{moved} Image(s) moved successfully")
+
